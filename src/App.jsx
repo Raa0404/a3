@@ -1,1 +1,1 @@
-// Enhanced App.jsx with animation and styling
+// Placeholder App.jsx with animations
